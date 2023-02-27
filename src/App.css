@@ -1,0 +1,8 @@
+tbody, tfoot, th, thead, tr{
+  color: whitesmoke;
+}
+
+.table{
+  width: 90%;
+  margin-left: 5%;
+}
